@@ -1,1 +1,0 @@
-const a = alert ("Welcome to JS land...\nHppy coding"); 
